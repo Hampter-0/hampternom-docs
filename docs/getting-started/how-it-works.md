@@ -1,6 +1,6 @@
 ---
 title: How hosting works
-description: What happens from the moment you order hosting until your bot is online.
+description: What happens from the moment you order hosting until your bot or website is online.
 ---
 
 # How hosting works
@@ -15,8 +15,7 @@ This page is about hosting. If you want us to build a bot or website for you, se
 
 - **Discord bot hosting.** You bring your own bot and we keep it running. Plans start at €1 a month. See the [plans](https://hampternom.nl/bots#plans).
 - **Ready-made bots.** A Ticket Bot or Server Bot you can use without writing code, with hosting as an add-on. See [Ready-made bots](/bots/ready-made).
-
-Website hosting is coming soon.
+- **Website hosting.** Your website on your own domain, with free SSL, a database and email. Plans start at €2 a month. See the [plans](https://hampternom.nl/websites#plans) and [Connect your domain](/websites/connect-domain).
 
 ::: tip Not sure which plan you need?
 Most small bots run fine on the 0.5 GB plan. Bots that play music, use a database or serve many servers usually need 1 GB or more. You can [upgrade later](/help/support#can-i-upgrade-my-plan-later) without losing anything.

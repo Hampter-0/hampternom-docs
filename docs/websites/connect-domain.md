@@ -5,9 +5,7 @@ description: Point your own domain to your hampternom website with Cloudflare.
 
 # Connect your domain
 
-::: info Website hosting is coming soon
-You can't order website hosting yet. This guide is here so you can prepare your domain. [Join our Discord](https://discord.gg/45gRX62b77) to hear when it opens.
-:::
+Website hosting starts at €2 a month. See the [plans](https://hampternom.nl/websites#plans).
 
 To use website hosting you need your own domain, like `yourname.nl`. We recommend managing it in [Cloudflare](https://www.cloudflare.com/), which is free for this.
 
