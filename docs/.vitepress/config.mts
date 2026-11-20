@@ -12,6 +12,8 @@ export default defineConfig({
     hostname: 'https://docs.hampternom.nl',
   },
   head: [
+    ['link', { rel: 'icon', href: '/favicon.ico', type: 'image/x-icon', sizes: 'any' }],
+    ['link', { rel: 'icon', href: '/favicon.png', type: 'image/png', sizes: '32x32' }],
     ['link', { rel: 'icon', href: '/logo.svg', type: 'image/svg+xml' }],
     ['meta', { name: 'theme-color', content: '#11131f' }],
   ],

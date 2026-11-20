@@ -46,7 +46,6 @@ body {
   letter-spacing: 0.2px;
 }
 
-/* Wordmark on one line, bold like the main site */
 .VPNavBarTitle .title {
   font-weight: 700;
   font-size: 18px;
@@ -58,7 +57,6 @@ body {
   height: 30px;
 }
 
-/* Headings */
 .vp-doc h1 {
   font-size: 44px;
   line-height: 1.1;
@@ -83,7 +81,6 @@ body {
   line-height: 1.6;
 }
 
-/* Square corners, like the main site */
 .VPButton,
 .VPFeature,
 .vp-doc div[class*='language-'],
@@ -102,7 +99,6 @@ body {
   border-width: 1px;
 }
 
-/* Home page */
 .VPHero .name .clip {
   -webkit-text-fill-color: currentColor;
 }
